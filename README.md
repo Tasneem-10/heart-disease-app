@@ -29,30 +29,3 @@ The app compares three machine learning models trained on the heart disease data
 
 > Based on these results, the **Random Forest** model is selected as the best-performing model.
 
----
-
-## 🧠 How It Works
-
-- The app uses a dataset of patient health metrics (age, cholesterol, blood pressure, etc.)
-- Data is split into training and testing sets
-- Models are trained and evaluated
-- Users can test predictions manually or randomly
-- Visualizations help interpret model behavior
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your app interface here, such as:
-- Dashboard view
-- ROC curve
-- Feature importance
-- Prediction result
-
-Example:
-
-```markdown
-![Dashboard](Screenshot%202025-09-21%20142019.png)
-![ROC Curve](Screenshot%202025-09-21%20142030.png)
-
-pip install -r requirements.txt
